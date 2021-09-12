@@ -17,5 +17,15 @@
                 "path": "./themes/Dalia Night Theme Monokai-color-theme.json"
             }
         ]
+    },
+    "publisher": "VictorJose",
+    "author": {
+        "name": "Victor R. Jose Santiago",
+        "email": "jsvictordev@gmail.com"
+      },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jsvictordev/dalia-night-theme-monokai"
     }
+
 }
