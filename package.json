@@ -1,0 +1,21 @@
+{
+    "name": "dalia-night-theme-monokai",
+    "displayName": "Dalia Night Theme Monokai",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dalia Night Theme Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dalia Night Theme Monokai-color-theme.json"
+            }
+        ]
+    }
+}
